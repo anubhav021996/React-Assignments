@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "Anubhav",
+      "age": "25",
+      "add": "add",
+      "dept": "IA",
+      "sallary": "60000",
+      "id": 2
+    },
+    {
+      "name": "Anjali ",
+      "age": "25",
+      "add": "add",
+      "dept": "HR",
+      "sallary": "50000",
+      "id": 3
+    },
+    {
+      "name": "Aarti ",
+      "age": "22",
+      "add": "add",
+      "dept": "Operations",
+      "sallary": "20000",
+      "id": 4
+    },
+    {
+      "name": "Ashish ",
+      "age": "22",
+      "add": "add",
+      "dept": "HR",
+      "sallary": "548",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
